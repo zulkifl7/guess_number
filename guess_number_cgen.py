@@ -1,4 +1,10 @@
 # Computer generated
+'''
+Computer generates a number and user have to find the number 
+* Every time computer generates a Rqndom number and user have to 
+    find it.
+* Every time the minimum and maximum number changed
+'''
 
 from random import randint
 
